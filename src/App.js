@@ -15,10 +15,4 @@ const App = () => {
   );
 };
 
-// const App = () => {
-//   return (
-// <div>sdfgh</div>
-//   );
-// };
-
 export default App;
