@@ -28,7 +28,7 @@ function BackBtnToTop() {
           style={{
             position: 'fixed',
             bottom: '45px',
-            right: '25px',
+            right: '33px',
             height: '50px',
             width: '50px',
             fontSize: '27px',
