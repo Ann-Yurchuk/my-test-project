@@ -2,7 +2,7 @@
   "name": "my-test-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ann-Yurchuk.github.io/my-test-project/",
+  "homepage": "https://ann-yurchuk.github.io/my-test-project/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
