@@ -6,6 +6,8 @@
 ● Код відформатований та без коментарів.
 ● В репозиторії має бути описаний README.md.
 
+Посилання на макет: "https://www.figma.com/file/l6Kp41Me5Uq02ASR7XsEY0/Test-(Copy)?type=design&node-id=7-89&t=fY2gQAC2LwpSg3Zj-0"
+
 Технічне завдання:
 1. Відповідно до макету потрібно реалізувати картки юзера.
 2. При клікові на кнопку Follow - текст змінюється на Following. Також
@@ -45,5 +47,5 @@ avatar (див скріншот нижче).
 '/tweets’ - компонент tweets, сторінка із відображенням твітів
 На сторінці tweets має бути кнопка Back, яка веде на головну сторінку.
 
-Посилання на макет: "https://www.figma.com/file/l6Kp41Me5Uq02ASR7XsEY0/Test-(Copy)?type=design&node-id=7-89&t=fY2gQAC2LwpSg3Zj-0"
+
 Посилання на виконане завдання: "https://ann-yurchuk.github.io/my-test-project/"
