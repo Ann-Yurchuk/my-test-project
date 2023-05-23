@@ -36,6 +36,7 @@ function BackBtnToTop() {
             backgroundColor: '#0b0583',
             color: '#ebd8ff',
             alignContent: 'center',
+            cursor: 'pointer',
           }}
           onClick={scrollUp}
         >
